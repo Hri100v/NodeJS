@@ -1,0 +1,18 @@
+{
+  "name": "firststep",
+  "version": "1.0.0",
+  "description": "Node Testings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Hristo Hristov",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
