@@ -1,0 +1,13 @@
+Start Application!
+[ { _id: 5ce8076f98b8d9cfad4028ae, artistname: 'The Tea Party' },
+  { _id: 5ce80ab598b8d9cfad4028af, artistname: 'Jorn Lande' },
+  { _id: 1, artistname: 'AC/DC' },
+  { _id: 5ce80afa98b8d9cfad4028b0, artistname: 'The Kooks' },
+  { _id: 5ce80afa98b8d9cfad4028b1, artistname: 'Bastille' },
+  { _id: 5ce80afa98b8d9cfad4028b2, artistname: 'Gang of Four' },
+  { _id: 5ce80b3c98b8d9cfad4028b3,
+    artistname: 'Deep Purple',
+    albums: [ [Object], [Object] ] },
+  { _id: 5ce80bc198b8d9cfad4028b4,
+    artistname: 'Miles Davis',
+    albums: [ [Object], [Object] ] } ]

@@ -1,0 +1,9 @@
+useful for me lesson
+https://www.quackit.com/mongodb/tutorial/mongodb_create_a_database.cfm
+
+
+
+another links
+https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
+
+https://docs.mongodb.com/manual/tutorial/getting-started/
