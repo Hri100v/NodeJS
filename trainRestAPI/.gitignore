@@ -3,11 +3,7 @@
 ### Node ###
 
 # Ignore node_modules
-#node_modules/
+node_modules/
 
-temp.txt
-
-# Another file
-simpletemp.txt
-
-simpletemp/
+# Old version of package.json
+package - Copy.json
