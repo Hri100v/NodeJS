@@ -1,0 +1,23 @@
+{
+  "name": "trainrestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "devStart": "nodemon index.js"
+  },
+  "author": "Me-Hristo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "lite-server": "^2.6.1",
+    "nodemon": "^3.0.2",
+    "supertest": "^6.3.3"
+  }
+}
